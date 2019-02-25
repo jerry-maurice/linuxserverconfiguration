@@ -7,7 +7,8 @@ ssh 2200
 HTTP 80
 ntp 123
 You can access the site using 3.82.155.85 or the domain name : 3.82.155.85.xip.io 
-I create a user name grader and give it access using an ssh key which I will provide in the notes
+I create a user name grader and give it access using an ssh key which I will provide in the notes.
+I also created a database named catalogdb with user catalog.
 
 software installed:
 python 2.7 
