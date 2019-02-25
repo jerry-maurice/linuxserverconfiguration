@@ -4,7 +4,7 @@ The os is : Ubuntu 18.04 LTS
 ip address is 3.82.155.85
 Port:
 ssh 2200
-www 80
+HTTP 80
 ntp 123
 You can access the site using 3.82.155.85 or the domain name : 3.82.155.85.xip.io 
 I create a user name grader and give it access using an ssh key which I will provide in the notes
