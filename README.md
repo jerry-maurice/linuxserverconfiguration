@@ -19,10 +19,10 @@ git
 postgresql
 
 Resources used:
-stackOverflow posts
-udacity /Database with SQL and Python
-pypi.org/project/Flask-SQLAlchemy
-Student Hubs and Knowledge
-aws documentation
+stackOverflow posts,
+udacity /Database with SQL and Python,
+pypi.org/project/Flask-SQLAlchemy,
+Student Hubs and Knowledge,
+aws documentation,
 Flask Documentation 
 
